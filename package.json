@@ -2,5 +2,26 @@
   "devDependencies": {
     "tsx": "^4.23.15",
     "typescript": "^7.0.2"
-  }
+  },
+  "name": "envflow",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "esbuild": "^0.28.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manda-Fy/EnvFLow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manda-Fy/EnvFLow/issues"
+  },
+  "homepage": "https://github.com/Manda-Fy/EnvFLow#readme"
 }
