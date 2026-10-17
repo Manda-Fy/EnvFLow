@@ -1,11 +1,13 @@
 {
   "devDependencies": {
+    "@types/node": "^26.6.5",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2"
   },
   "name": "envflow",
   "description": "",
   "version": "1.0.0",
+  "type": "module", 
   "main": "index.js",
   "dependencies": {
     "esbuild": "^0.28.2"
